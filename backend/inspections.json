@@ -1,0 +1,17 @@
+[
+  {
+    "id": "4f61d025",
+    "ship_name": "m",
+    "port_inspected": "",
+    "survey_inspected_by": "",
+    "upload_id_ref": "",
+    "auto_fetched_details": {
+      "port": "Los Angeles",
+      "vessel_name": "MV Sea Voyager",
+      "inspection_date": "5/2/2026"
+    },
+    "photos": [],
+    "created_at": "2026-02-05T23:18:20.101921",
+    "updated_at": "2026-02-05T23:18:20.102134"
+  }
+]

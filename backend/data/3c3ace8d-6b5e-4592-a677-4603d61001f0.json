@@ -1,0 +1,37 @@
+{
+  "inspection_id": "3c3ace8d-6b5e-4592-a677-4603d61001f0",
+  "email": "test@example.com",
+  "details": {
+    "date": "V",
+    "shipName": "C",
+    "shipType": "X",
+    "port": "X",
+    "inspector": "X"
+  },
+  "profile": {
+    "name": null,
+    "designation": null,
+    "phone": null,
+    "experience": null,
+    "expertise": null,
+    "certifications": null,
+    "cv": null
+  },
+  "logo": "uploads\\logos\\1b39c2b9-b51b-4488-a2dc-579140d7c9a2.jpg",
+  "ship_image": "uploads\\ships\\fd8ab769-daef-4b85-ac3d-ad9d749b7653.jpg",
+  "images": [
+    {
+      "path": "uploads\\images\\c82fffa3-dc10-4079-9fb9-d87a21080e69.jpg",
+      "description": "Ndmdndm"
+    },
+    {
+      "path": "uploads\\images\\345a5272-b254-4dc6-904b-3dba53cfe941.jpg",
+      "description": "Fjdjjd"
+    },
+    {
+      "path": "uploads\\images\\07e1496f-6e57-47f1-ba33-adff946a8f88.png",
+      "description": "Fkdjfjd"
+    }
+  ],
+  "images_per_page": 2
+}
